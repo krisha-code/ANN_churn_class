@@ -54,4 +54,4 @@ st.write(f'Predicted Probability of Churn: {predicted_probability:.2f}')
 if predicted_probability > 0.5:
     st.write(f'The customer is likely to churn with a probability of {predicted_probability:.2f}')  
 else:
-st.write(f'The customer is unlikely to churn with a probability of {predicted_probability:.2f}')
+    st.write(f'The customer is unlikely to churn with a probability of {predicted_probability:.2f}')
