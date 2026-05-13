@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 tensorflow==2.16.1
 keras==3.3.3
@@ -6,3 +7,13 @@ numpy==1.26.4
 scikit-learn==1.5.1
 matplotlib
 tensorboard
+=======
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorboard
+streamlit
+>>>>>>> 292666e78e043f6b4142081586f663addd01da5c
